@@ -2,8 +2,8 @@ body {
     background-color: black;
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
 }
 .container {
     margin-top: 150px;
@@ -38,6 +38,7 @@ button:active{
 }
 footer{
     color: white;
-    padding: 20%;
+    /* padding: 20%; */
+    margin-top: 23%;
     
 }
